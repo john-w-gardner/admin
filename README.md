@@ -1,2 +1,2 @@
 # admin
-extra stuff about me in case anyone wants to know
+more stuff in case anyone wants to know
